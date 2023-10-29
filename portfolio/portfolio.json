@@ -29,6 +29,11 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.pixabay.com/photo/2023/05/20/16/35/dog-8006807_1280.jpg",
+			"name": "Dog 8006807 1280",
+			"@type": "Painting"
 		}
 	]
 }
